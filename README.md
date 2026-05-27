@@ -1,14 +1,10 @@
 # 💫 About Me:
-I’m a purpose-driven Computer Science undergraduate (VIT Vellore, ’28) with a strong interest in coding and problem-solving. I currently focus on Data Structures & Algorithms and Frontend Development, building a solid foundation in writing clean, efficient, and user-focused code.
+Hi, I’m Shreya Shukla 👩‍💻
+I write code, debug for hours, fix one thing, break three more, and somehow call it “growth.”
 
-I enjoy breaking down problems, thinking systematically, and turning ideas into intuitive interfaces. With a builder’s mindset, I’m continuously learning and improving, driven by curiosity and consistency.
+Currently diving deep into DSA and frontend development while pretending I totally know what I’m doing. Building projects, pushing commits at 2 a.m., and slowly turning caffeine into code.
 
- Some of my interests include:
-• Problem-solving through DSA
-• Building clean and responsive frontend applications
-• Understanding how scalable software systems are designed
-
-I’m eager to grow deeper in tech, expand my skill set, and contribute to meaningful software solutions.
+Mostly here to learn, build cool stuff, and level up one bug, one project, and one “why is this not working?” moment at a time.
 
 
 ## 🌐 Socials:
